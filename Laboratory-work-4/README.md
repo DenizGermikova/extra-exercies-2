@@ -60,10 +60,10 @@ grep, sed).
 
 Рис 2.3.3- Видалити з файлу всі порожні рядки.
 
-<img width="966" alt="Снимок экрана 2025-04-02 в 18 57 30" src="https://github.com/user-attachments/assets/8977fb19-f9f1-4aa9-bd10-63c7a712796c" />
+<img width="1105" alt="Снимок экрана 2025-04-06 в 10 10 41" src="https://github.com/user-attachments/assets/05ee8279-46d2-4111-8c13-ca4fb9fa428c" />
 
 Рис 2.3.4- Видалити з файлу слова-дублікати.
 
-<img width="758" alt="Снимок экрана 2025-04-02 в 19 35 48" src="https://github.com/user-attachments/assets/5a2d0b84-40c3-4625-9d65-5ce83bacc586" />
+<img width="929" alt="Снимок экрана 2025-04-06 в 10 21 13" src="https://github.com/user-attachments/assets/35c57873-c4cc-4c14-962b-087837db50b7" />
 
 Рис 2.3.5- Об’єднати команди SED, створені у попередніх завданнях, в окремий текстовий файл з назвою за шаблоном surname.sed, де surname – ваше прізвище латинськими літерами. Виконати утиліту SED з читанням команд зі створеного файлу.
